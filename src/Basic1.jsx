@@ -242,7 +242,7 @@ const Basic1 = () => {
 
                 <div className="text">
 
-                  <h1>Add-ons Selections</h1>
+                  <h1>Add-ons Selection</h1>
 
                 </div>
                 <div className="venue_selection">
